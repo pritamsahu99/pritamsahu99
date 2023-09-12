@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="left">👋... hey there<br>I'm Pritam Sahu<br>-Completed JAVA with (DSA) from basics to advance & Aspiring to be a Web Developer</h1>
-
+<h1 align="left">👋... hey there<br>I'm Pritam Sahu</h1>
+<h3 align="left">- Completed JAVA with (DSA) <br>- From Basics to Advance <br>- Aspiring to be a Web Developer</h3>
 ###
 
 <h4 align="left">👩‍💻 About Me</h4>
 
 ###
 
-<p align="left">- 🔭 I’m a student at present<br>- 👨🏻‍🎓 Batch of BCA 2nd year III Sem<br>- 📚 I'm currently continuously learning JAVA PROGRAMMING, MERN FULL-STACK WEB-DEV<br>- ⚡ In my free time I Practice my learnings</p>
+<p align="left">- 🔭 I’m a student at present<br>- 👨🏻‍🎓 Pursuing BCA Degree at present<br>- 📚 I'm currently continuous learning JAVA PROGRAMMING, MERN FULL-STACK WEB-DEV<br>- ⚡ In my free time I Practice my learnings</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 <h2 align="center">
-  Contact Me Here:
+  Reach Me Here:
 </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/pritam-sahu-532183268/" target="_blank">
