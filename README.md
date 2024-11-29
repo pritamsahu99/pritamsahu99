@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m a student at present<br>- 👨🏻‍🎓 Pursuing BCA Degree at present<br>- 📚 I'm currently continuous learning JAVA PROGRAMMING, MERN FULL-STACK WEB-DEV<br>- ⚡ In my free time I Practice my learnings</p>
+<p align="left">- 🔭 I’m a student at present<br>- 👨🏻‍🎓 Pursuing BCA Degree *currently in 3rd year 1st semester<br>- 📚 I've Acompleshed Java Programming with DSA, Frontend Web-Developer<br>- ⚡ In my free time I Practice my learnings and skills</p>
 
 ###
 
-<h6 align="left">-🛠 Language and tools I expert in<br><br># Java <br># HTML5 <br># CSS3 <br># Tailwind CSS <br># JS</h6>
+<h6 align="left">-🛠 Language and tools I expert in<br><br># Java <br># HTML5 <br># CSS3 <br># Tailwind CSS <br># JS <br># ReactJS</h6>
 
 ###
 <h2 align="center">
